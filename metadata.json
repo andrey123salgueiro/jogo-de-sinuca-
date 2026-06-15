@@ -1,6 +1,0 @@
-{
-  "name": "Jogo de Sinuca",
-  "description": "Um jogo clássico de sinuca (8-Ball Pool) interativo em 2D com física realista, modo treino, dois jogadores locais e oponente de inteligência artificial.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
